@@ -23,7 +23,7 @@ if __name__ == "__main__":
             data = json.load(f)
     except FileNotFoundError:
         print("[yellow]No cache found. Scraping...[/yellow]")
-        data = scrape_programs(pages=3,field ="international-programs/en/")
+        data = scrape_programs(pages=3)
 
     keyword = input("Enter keyword to search (e.g. AI, engineering, bio): ")
     results = filter_by_keyword(data, keyword)
