@@ -36,6 +36,11 @@ def scrape_programs(pages=3):
             degree = "Not found"
             location = "Not found"
             
+             # Extract link (relative -> absolute)
+            link_tag = card.select_one("p a")
+            link = f"https://www.daad.de{link_tag['href']}" if link_tag and link_tag.has_attr("href") else "Not found"
+
+            
             grid_items = card.select(".items-grid__item")
             for item in grid_items:
                 # <dt> is the label, <dd> is the value
@@ -51,7 +56,7 @@ def scrape_programs(pages=3):
                 "id":counter,
                 "university": uni,
                 "title": title,
-                # "url": f"https://www2.daad.de{link}",
+                "url": link,
                 "degree": degree,
                 "location": location,
             })
