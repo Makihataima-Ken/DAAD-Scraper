@@ -41,9 +41,11 @@ def mark_stale_programs(programs, months_threshold=12):
 
 # format Readme files
 def create_md_table(programs):
-    table = "| University | Program | Degree | Location | Link |\n"
-    table += "|------------|---------|--------|----------|------|\n"
+    table = "| University | Program | Degree | Location | Apply |\n"
+    table += "|------------|---------|--------|----------|-------|\n"
     for prog in programs:
-        table += f"| {prog['university']} | {prog['title']} | {prog['degree']} | {prog['location']} | [Link]({prog['url']}) |\n"
+        button_html = f'<a href="{prog["url"]}" target="_blank"><button style="background:#4CAF50;color:white;padding:4px 8px;border:none;border-radius:4px;">Apply</button></a>'
+        table += f"| {prog['university']} | {prog['title']} | {prog['degree']} | {prog['location']} | {button_html} |\n"
     return table
+
 
