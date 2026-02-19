@@ -419,3 +419,11 @@ FodyWeavers.xsd
 
 # Scarped result
 data/
+
+# uv specific files
+uv.lock
+pyproject.toml
+
+# extension files
+DAAD-Scraper-output.md
+DAAD-Scraper-output.txt

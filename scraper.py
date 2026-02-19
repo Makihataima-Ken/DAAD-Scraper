@@ -31,12 +31,12 @@ def scrape_programs(pages=3):
 
         for card in cards:
             
-            uni = card.select_one("h4 span:nth-of-type(1)").text.strip() if card.select_one("h4 span:nth-of-type(1)") else "Location not found"
-            title = card.select_one("h4 span:nth-of-type(2)").text.strip() if card.select_one("h4 span:nth-of-type(2)") else "Title not found"
+            uni = card.select_one("h4 span:nth-of-type(1)").text.strip() if card.select_one("h4 span:nth-of-type(1)") else "Uni Name not found"
+            title = card.select_one("h1 span:nth-of-type(2)").text.strip() if card.select_one("h1 span:nth-of-type(2)") else "Program Title not found"
             degree = "Not found"
             location = "Not found"
             
-             # Extract link (relative -> absolute)
+            # Extract link (relative -> absolute)
             link_tag = card.select_one("p a")
             link = f"https://www.daad.de{link_tag['href']}" if link_tag and link_tag.has_attr("href") else "Not found"
 
