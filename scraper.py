@@ -51,15 +51,15 @@ def scrape_programs(pages=3):
                 if label and "Degree" in label.text and value:
                     degree = value.text.strip()
                     
-            
-            all_programs.append({
-                "id":counter,
-                "university": uni,
-                "title": title,
-                "url": link,
-                "degree": degree,
-                "location": location,
-            })
+            if degree ==  "Master":
+                all_programs.append({
+                    "id":counter,
+                    "university": uni,
+                    "title": title,
+                    "url": link,
+                    "degree": degree,
+                    "location": location,
+                })
             
             counter = counter + 1
 
