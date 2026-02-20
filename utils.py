@@ -1,4 +1,4 @@
-from datetime import datetime, timedelta
+from datetime import datetime
 import time
 import random
 
@@ -27,8 +27,7 @@ def classify_program(prog):
         if any(kw.lower() in title_lower for kw in keywords):
             return category
     return "Other"
-
-# 
+ 
 def mark_stale_programs(programs, months_threshold=12):
     now = datetime.now()
     for prog in programs:
@@ -40,7 +39,7 @@ def mark_stale_programs(programs, months_threshold=12):
     return programs
 
 # format Readme files
-def create_md_table(programs):
+def create_md_table(programs:list):
     table = "| University | Program | Degree | Location | Apply |\n"
     table += "|------------|---------|--------|----------|-------|\n"
     for prog in programs:
