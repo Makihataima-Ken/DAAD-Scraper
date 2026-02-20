@@ -54,22 +54,22 @@ def scrape_programs():
                     if "Degree" in label.text:
                         degree = value.text.strip()
 
-            if degree == "Master":
-                all_programs.append({
+            
+            all_programs.append({
                     "id": counter,
                     "university": uni,
                     "title": title,
                     "url": link,
                     "degree": degree,
                     "location": location,
-                })
+            })
 
             counter += 1
 
         page += 1
         # delay_random(2, 4)
 
-    with open("data/programs.json", "w", encoding="utf-8") as f:
-        json.dump(all_programs, f, indent=2, ensure_ascii=False)
+    # with open("data/programs.json", "w", encoding="utf-8") as f:
+    #     json.dump(all_programs, f, indent=2, ensure_ascii=False)
 
     return all_programs

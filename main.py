@@ -1,27 +1,28 @@
-from scraper import scrape_programs
-from rich import print
-from rich.table import Table
 from filters import filter_for_cs
-import utils
+    
+from scrapers.programs import scrape_programs
+from scrapers.scholarships import scrape_scholarships
+from utils import create_programs_md, create_scholarships_md
 
-def display_programs(programs):
-    table = Table(title="DAAD Programs")
+def create_programs_table():
+    programs = scrape_programs()
+    cs_programs = filter_for_cs(programs)
+    return create_programs_md(cs_programs)
 
-    table.add_column("Title", style="cyan", no_wrap=True)
-    table.add_column("Location", style="magenta")
-    table.add_column("Degree")
-    table.add_column("Link", style="green")
+def create_scholarships_table():
+    scholarships = scrape_scholarships()
+    return create_scholarships_md(scholarships)
 
-    for p in programs:
-        table.add_row(p["title"], p["location"], p["degree"], p["url"])
+def main():
 
-    print(table)
+    # programs_table = create_programs_table()
+    scholarships_table = create_scholarships_table()
+    
+    # with open("PROGRAMS.md", "w", encoding="utf-8") as f:
+    #     f.write(programs_table)
+
+    with open("SCHOLARSHIPS.md", "w", encoding="utf-8") as f:
+        f.write(scholarships_table)
 
 if __name__ == "__main__":
-    print("[yellow]Scraping...[/yellow]")
-    data = scrape_programs()
-    cs_programs = filter_for_cs(data)
-    # display_programs(cs_programs)
-    md_table = utils.create_md_table(cs_programs)
-    with open("README.md", "w", encoding="utf-8") as f:
-        f.write(md_table)
+    main()
