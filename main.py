@@ -1,7 +1,6 @@
 from scrapers.programs import scrape_programs
 from scrapers.scholarships import scrape_scholarships
 from utils import create_programs_md, create_scholarships_md, update_readme
-from datetime import datetime
 
 
 def main():
