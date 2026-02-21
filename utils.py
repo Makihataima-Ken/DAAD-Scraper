@@ -85,6 +85,8 @@ def create_programs_md(programs: list):
     return md
 
 def create_scholarships_md(scholarships: list):
+    from datetime import datetime
+
     md = "# 💰 DAAD Scholarships\n\n"
     md += f"Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}\n\n"
     md += f"Total Scholarships: {len(scholarships)}\n\n"
@@ -94,17 +96,36 @@ def create_scholarships_md(scholarships: list):
         md += "No scholarships found.\n"
         return md
 
-    md += "| Title | Summary | Apply |\n"
-    md += "|-------|----------|-------|\n"
+    md += "| Title | DAAD Funded | Subjects | Apply |\n"
+    md += "|-------|-------------|----------|-------|\n"
 
     for s in scholarships:
         title = s.get("title", "N/A").replace("|", "-")
-        summary = s.get("summary", "").replace("\n", " ").replace("|", "-")
-        summary = (summary[:120] + "...") if len(summary) > 120 else summary
-        url = s.get("url", "#")
 
+        is_daad = "✅" if s.get("is_daAD") else "❌"
+
+        subjects = ", ".join(s.get("subject_groups", []))
+        subjects = subjects if subjects else "-"
+
+        url = s.get("url", "#")
         button = f'<a href="{url}" target="_blank">View</a>'
 
-        md += f"| {title} | {summary} | {button} |\n"
+        md += f"| {title} | {is_daad} | {subjects} | {button} |\n"
 
     return md
+
+def update_readme(program_count, scholarship_count):
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.write(f"""# 🎓 DAAD Scraper
+                 
+                    ## 📊 Available Data
+
+                    - [🎓 Study Programs](PROGRAMS.md)
+                    - [💰 Scholarships](SCHOLARSHIPS.md)
+
+                    ---
+
+                    Last Updated: {datetime.utcnow().strftime('%Y-%m-%d')}  
+                    Total Programs: {program_count}  
+                    Total Scholarships: {scholarship_count}
+                    """)
