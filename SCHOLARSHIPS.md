@@ -1,8 +1,8 @@
 # 💰 DAAD Scholarships
 
-Last updated: 2026-02-21 15:20 UTC
+Last updated: 2026-04-01 05:48 UTC
 
-Total Scholarships: 163
+Total Scholarships: 165
 
 ---
 
@@ -124,12 +124,10 @@ Total Scholarships: 163
 | Alfred Toepfer Stiftung & Studienstiftung des deutschen Volkes: You and Europe Scholarship Programme | ❌ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | University Winter Courses | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Alfried Krupp Wissenschaftskolleg Greifswald: Alfried Krupp Fellowships | ❌ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
-| Future Ukraine: Research Grants | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Sino-German Postdoc Program | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Hanse-Wissenschaftskolleg (HWK): Funded Regular and Junior Fellowships | ❌ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Government Scholarships Programme Mexico COMECYT-DAAD Master | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Government Scholarships Programme Mexico COMECYT-DAAD Promotion | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
-| KOSPIE Tunisia | ✅ | C, F | <a href="#" target="_blank">View</a> |
 | Re-invitation Programme for Former Scholarship Holders | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Bilateral Exchange of Academics (to Germany) | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Study Scholarships - Master Studies for All Academic Disciplines | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
@@ -142,7 +140,6 @@ Total Scholarships: 163
 | Research Grants in Germany | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Study scholarships for STEM disciplines | ✅ | C, F | <a href="#" target="_blank">View</a> |
 | Study Visits for Academics - Artistic Disciplines and Architecture | ✅ | F, G | <a href="#" target="_blank">View</a> |
-| Joint Rustaveli-DAAD-fellowship programme | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | COLFUTURO MA | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | COLFUTURO PhD | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Third Country Scholarships for Postgraduate Studies for Students from | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
@@ -170,4 +167,9 @@ Total Scholarships: 163
 | DAAD-K.C.Wong Postdoc Fellowships | ✅ | C, D, E, F | <a href="#" target="_blank">View</a> |
 | DAAD-Short-term scholarships for master's degree students | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | SECIHTI | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
+| GROW – Programm Line 1 | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Combined Study and Practice Stays for Engineers from Developing | ✅ | C, F | <a href="#" target="_blank">View</a> |
+| KOSPIE Tunisia | ✅ | C, F | <a href="#" target="_blank">View</a> |
+| Göttingen Academy of Sciences and Humanities: Hannah Arendt Fellowships | ❌ | A, B | <a href="#" target="_blank">View</a> |
+| Future Ukraine: Research Grants | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
+| Joint Rustaveli-DAAD-fellowship programme | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
