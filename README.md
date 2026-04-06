@@ -1,13 +1,12 @@
 # 🎓 DAAD Scraper
                  
-                    ## 📊 Available Data
+## 📊 Available Data
+- [🎓 Study Programs](PROGRAMS.md)
+- [💰 Scholarships](SCHOLARSHIPS.md)
 
-                    - [🎓 Study Programs](PROGRAMS.md)
-                    - [💰 Scholarships](SCHOLARSHIPS.md)
+   ---
 
-                    ---
-
-                    Last Updated: 2026-04-01  
-                    Total Programs: 22412  
-                    Total Scholarships: 165
+Last Updated: 2026-04-01  
+Total Programs: 22412  
+Total Scholarships: 165
                     
