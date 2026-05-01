@@ -1,6 +1,6 @@
 # 💰 DAAD Scholarships
 
-Last updated: 2026-04-01 05:48 UTC
+Last updated: 2026-05-01 10:04 UTC
 
 Total Scholarships: 165
 
@@ -142,7 +142,6 @@ Total Scholarships: 165
 | Study Visits for Academics - Artistic Disciplines and Architecture | ✅ | F, G | <a href="#" target="_blank">View</a> |
 | COLFUTURO MA | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | COLFUTURO PhD | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
-| Third Country Scholarships for Postgraduate Studies for Students from | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | In-Country Palestinian Territories | ✅ | B, C, D, E, F | <a href="#" target="_blank">View</a> |
 | Third Country Programme Latin America MA | ✅ | F | <a href="#" target="_blank">View</a> |
 | Co-financed Short-Term Research Grant Brazil | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
@@ -173,3 +172,4 @@ Total Scholarships: 165
 | Göttingen Academy of Sciences and Humanities: Hannah Arendt Fellowships | ❌ | A, B | <a href="#" target="_blank">View</a> |
 | Future Ukraine: Research Grants | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Joint Rustaveli-DAAD-fellowship programme | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
+| Third Country Scholarships for Postgraduate Studies for Students from | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
