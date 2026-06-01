@@ -1,8 +1,8 @@
 # 💰 DAAD Scholarships
 
-Last updated: 2026-05-01 10:04 UTC
+Last updated: 2026-06-01 08:54 UTC
 
-Total Scholarships: 165
+Total Scholarships: 166
 
 ---
 
@@ -67,7 +67,6 @@ Total Scholarships: 165
 | Bayer Foundation: Kurt Hansen Fellowship for STEM Education | ❌ | A, C, F | <a href="#" target="_blank">View</a> |
 | Munich Aerospace: PhD Scholarships | ❌ | F | <a href="#" target="_blank">View</a> |
 | Heinrich Böll Foundation: Sur-Place Scholarship Programme | ❌ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
-| DAAD-NRF Joint Scholarship Programme South Africa | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Country-related cooperation programme with Argentina (ALEARG) | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | DAAD/NSTC- Sandwich- Scholarship Programme | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | German Studies Research Grant | ✅ | A, B, G | <a href="#" target="_blank">View</a> |
@@ -122,26 +121,15 @@ Total Scholarships: 165
 | International Scholarship Programme of the Avicenna Studienwerk | ❌ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | EU Mobility Programme for Myanmar | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Alfred Toepfer Stiftung & Studienstiftung des deutschen Volkes: You and Europe Scholarship Programme | ❌ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
-| University Winter Courses | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Alfried Krupp Wissenschaftskolleg Greifswald: Alfried Krupp Fellowships | ❌ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Sino-German Postdoc Program | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Hanse-Wissenschaftskolleg (HWK): Funded Regular and Junior Fellowships | ❌ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Government Scholarships Programme Mexico COMECYT-DAAD Master | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Government Scholarships Programme Mexico COMECYT-DAAD Promotion | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
-| Re-invitation Programme for Former Scholarship Holders | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
-| Bilateral Exchange of Academics (to Germany) | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
-| Study Scholarships - Master Studies for All Academic Disciplines | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Study Scholarships - Postgraduate Studies in the Field of the Performing | ✅ | G | <a href="#" target="_blank">View</a> |
-| Research Grants - Doctoral Programmes in Germany | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
-| Study Scholarships - Postgraduate Studies in the Fields of Fine Art, | ✅ | F, G | <a href="#" target="_blank">View</a> |
-| Study Scholarships - Postgraduate Studies in the Field of Music | ✅ | G | <a href="#" target="_blank">View</a> |
-| Study Scholarships - Postgraduate Studies in the Field of Architecture | ✅ | F | <a href="#" target="_blank">View</a> |
-| Research Grants - Bi-nationally Supervised Doctoral Degrees/Cotutelle | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
-| Research Grants in Germany | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
-| Study scholarships for STEM disciplines | ✅ | C, F | <a href="#" target="_blank">View</a> |
-| Study Visits for Academics - Artistic Disciplines and Architecture | ✅ | F, G | <a href="#" target="_blank">View</a> |
 | COLFUTURO MA | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | COLFUTURO PhD | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
+| Third Country Scholarships for Postgraduate Studies for Students from | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | In-Country Palestinian Territories | ✅ | B, C, D, E, F | <a href="#" target="_blank">View</a> |
 | Third Country Programme Latin America MA | ✅ | F | <a href="#" target="_blank">View</a> |
 | Co-financed Short-Term Research Grant Brazil | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
@@ -162,14 +150,27 @@ Total Scholarships: 165
 | In-Country/In Region Scholarships Programme at SEARCA NRM | ✅ | E | <a href="#" target="_blank">View</a> |
 | University of Konstanz: ZUKOnnect Fellowships for Scholars from Africa, Asia and Latin America | ❌ | A, B, C | <a href="#" target="_blank">View</a> |
 | University Clinic Bonn: Research Training Group dedicated to the development and epileptogenesis of dysplasias | ❌ | C, D | <a href="#" target="_blank">View</a> |
+| Study Scholarships - Master Studies for All Academic Disciplines | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
+| Research Grants - Doctoral Programmes in Germany | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
+| Study Scholarships - Postgraduate Studies in the Fields of Fine Art, | ✅ | F, G | <a href="#" target="_blank">View</a> |
+| Study Scholarships - Postgraduate Studies in the Field of Music | ✅ | G | <a href="#" target="_blank">View</a> |
+| Study Scholarships - Postgraduate Studies in the Field of Architecture | ✅ | F | <a href="#" target="_blank">View</a> |
+| Research Grants - Bi-nationally Supervised Doctoral Degrees/Cotutelle | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
+| Study scholarships for STEM disciplines | ✅ | C, F | <a href="#" target="_blank">View</a> |
 | ERP Study Scholarships for Graduates of Economics and Business | ✅ | B | <a href="#" target="_blank">View</a> |
 | DAAD-K.C.Wong Postdoc Fellowships | ✅ | C, D, E, F | <a href="#" target="_blank">View</a> |
 | DAAD-Short-term scholarships for master's degree students | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
+| University Winter Courses | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | SECIHTI | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | GROW – Programm Line 1 | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Combined Study and Practice Stays for Engineers from Developing | ✅ | C, F | <a href="#" target="_blank">View</a> |
+| Re-invitation Programme for Former Scholarship Holders | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
+| Bilateral Exchange of Academics (to Germany) | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
+| Study Visits for Academics - Artistic Disciplines and Architecture | ✅ | F, G | <a href="#" target="_blank">View</a> |
+| Research Grants in Germany | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | KOSPIE Tunisia | ✅ | C, F | <a href="#" target="_blank">View</a> |
 | Göttingen Academy of Sciences and Humanities: Hannah Arendt Fellowships | ❌ | A, B | <a href="#" target="_blank">View</a> |
 | Future Ukraine: Research Grants | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Joint Rustaveli-DAAD-fellowship programme | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
-| Third Country Scholarships for Postgraduate Studies for Students from | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
+| Zukunftsnetzwerk Weimarer Dreieck | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
+| Zukunftsnetzwerk Weimarer Dreieck | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
