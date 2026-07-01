@@ -7,7 +7,7 @@
 
                     ---
 
-                    Last Updated: 2026-06-01  
-                    Total Programs: 22711  
-                    Total Scholarships: 166
+                    Last Updated: 2026-07-01  
+                    Total Programs: 22714  
+                    Total Scholarships: 163
                     

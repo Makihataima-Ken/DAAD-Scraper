@@ -1,8 +1,8 @@
 # 💰 DAAD Scholarships
 
-Last updated: 2026-06-01 08:54 UTC
+Last updated: 2026-07-01 07:36 UTC
 
-Total Scholarships: 166
+Total Scholarships: 163
 
 ---
 
@@ -110,7 +110,6 @@ Total Scholarships: 166
 | Helmut-Schmidt-Programme | ✅ | B | <a href="#" target="_blank">View</a> |
 | HessenFonds for Refugees and Researchers at Risk | ❌ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Development-Related Postgraduate Courses | ✅ | A, B, C, D, E, F | <a href="#" target="_blank">View</a> |
-| Angolan-German Postgraduate Training Programme | ✅ | B, C, F | <a href="#" target="_blank">View</a> |
 | DAAD/TEV Master Scholarships | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | DAAD Zuse School of Embedded Composite Artificial Intelligence (SECAI): Scholarships for Master's students in AI | ❌ | B, C, D, F | <a href="#" target="_blank">View</a> |
 | DAAD Konrad Zuse School of Excellence in Reliable Artificial Intelligence (relAI): Scholarship for Master's Students | ❌ | C, F | <a href="#" target="_blank">View</a> |
@@ -119,21 +118,16 @@ Total Scholarships: 166
 | RISE professional | ✅ | B, C, D, E, F | <a href="#" target="_blank">View</a> |
 | RISE Germany | ✅ | C, D, E, F | <a href="#" target="_blank">View</a> |
 | International Scholarship Programme of the Avicenna Studienwerk | ❌ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
-| EU Mobility Programme for Myanmar | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Alfred Toepfer Stiftung & Studienstiftung des deutschen Volkes: You and Europe Scholarship Programme | ❌ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Alfried Krupp Wissenschaftskolleg Greifswald: Alfried Krupp Fellowships | ❌ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Sino-German Postdoc Program | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Hanse-Wissenschaftskolleg (HWK): Funded Regular and Junior Fellowships | ❌ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Government Scholarships Programme Mexico COMECYT-DAAD Master | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Government Scholarships Programme Mexico COMECYT-DAAD Promotion | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
-| Study Scholarships - Postgraduate Studies in the Field of the Performing | ✅ | G | <a href="#" target="_blank">View</a> |
 | COLFUTURO MA | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | COLFUTURO PhD | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
-| Third Country Scholarships for Postgraduate Studies for Students from | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
-| In-Country Palestinian Territories | ✅ | B, C, D, E, F | <a href="#" target="_blank">View</a> |
 | Third Country Programme Latin America MA | ✅ | F | <a href="#" target="_blank">View</a> |
 | Co-financed Short-Term Research Grant Brazil | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
-| Programme d'Études en Allemagne | ✅ | A, C | <a href="#" target="_blank">View</a> |
 | DAAD/BECAS Chile | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | University Summer Courses | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | German Centre for Integrative Biodiversity Research (iDiv): Graduate School Scholarship Programme (GSSP) | ❌ | A, B, E | <a href="#" target="_blank">View</a> |
@@ -151,6 +145,7 @@ Total Scholarships: 166
 | University of Konstanz: ZUKOnnect Fellowships for Scholars from Africa, Asia and Latin America | ❌ | A, B, C | <a href="#" target="_blank">View</a> |
 | University Clinic Bonn: Research Training Group dedicated to the development and epileptogenesis of dysplasias | ❌ | C, D | <a href="#" target="_blank">View</a> |
 | Study Scholarships - Master Studies for All Academic Disciplines | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
+| Study Scholarships - Postgraduate Studies in the Field of the Performing | ✅ | G | <a href="#" target="_blank">View</a> |
 | Research Grants - Doctoral Programmes in Germany | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Study Scholarships - Postgraduate Studies in the Fields of Fine Art, | ✅ | F, G | <a href="#" target="_blank">View</a> |
 | Study Scholarships - Postgraduate Studies in the Field of Music | ✅ | G | <a href="#" target="_blank">View</a> |
@@ -172,5 +167,7 @@ Total Scholarships: 166
 | Göttingen Academy of Sciences and Humanities: Hannah Arendt Fellowships | ❌ | A, B | <a href="#" target="_blank">View</a> |
 | Future Ukraine: Research Grants | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Joint Rustaveli-DAAD-fellowship programme | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
+| Third Country Scholarships for Postgraduate Studies for Students from | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Zukunftsnetzwerk Weimarer Dreieck | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
 | Zukunftsnetzwerk Weimarer Dreieck | ✅ | A, B, C, D, E, F, G | <a href="#" target="_blank">View</a> |
+| In-Country Palestinian Territories | ✅ | B, C, D, E, F | <a href="#" target="_blank">View</a> |
